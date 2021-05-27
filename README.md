@@ -1,3 +1,6 @@
+# run analysis
+Run it in binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ToBeHH/hamburg_corona_zahlen/HEAD)
+
 # get all the data
 ```
 sudo gem install wayback_machine_downloader
