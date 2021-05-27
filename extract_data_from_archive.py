@@ -110,7 +110,7 @@ if __name__ == '__main__':
                         item[section_header]['unbekannt'] = int(number_unknown)
                 elif 'Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken' == section_header:
                     item[section_header][r['Bezirk']] = {
-                        'Fallzahlen': int(r['Fallzahlen']),
+                        'Fallzahlen': int(r['Fallzahlen'].replace('.','')),
                         # 'Fälle vergangene 14 Tage': int(r['Fälle vergangene 14 Tage'])
                     }
 
