@@ -576,4 +576,7 @@ h3 + .table-article  {
     /* ]]> */
   </script> </body> </html>/div> </nav> </div> <div class="site-overlay push"></div> <script type="text/javascript">
     /* <![CDATA[ */
-    function nscout(
+    function nscout() {
+      if (document.all) {
+        allLinks = document.all.tags("A");
+      } else if (docu

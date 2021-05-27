@@ -16857,6 +16857,89 @@
       }
     }
   },
+  "20201208114556": {
+    "Bestätigte Fälle": "27367",
+    "Davon geheilt": "20000",
+    "Neuinfektionen": "281",
+    "Todesfälle": "357",
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 386,
+      "Normalstation gesamt": 299,
+      "Normalstation aus Hamburg": 243,
+      "Intensiv gesamt": 87,
+      "Intensiv aus Hamburg": 74
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 300,
+        "weiblich": 263
+      },
+      "unbekannt": 294,
+      "6 bis 14 Jahre": {
+        "männlich": 907,
+        "weiblich": 802
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 876,
+        "weiblich": 902
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 2796,
+        "weiblich": 2737
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 2395,
+        "weiblich": 2457
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 1897,
+        "weiblich": 2045
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 1878,
+        "weiblich": 1768
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 932,
+        "weiblich": 835
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 633,
+        "weiblich": 635
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 480,
+        "weiblich": 755
+      },
+      "über 90 Jahre": {
+        "männlich": 105,
+        "weiblich": 394
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 3810
+      },
+      "Bergedorf": {
+        "Fallzahlen": 1487
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 3052
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 5750
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 3723
+      },
+      "Harburg": {
+        "Fallzahlen": 2618
+      },
+      "Wandsbek": {
+        "Fallzahlen": 6646
+      }
+    }
+  },
   "20201208120336": {
     "Bestätigte Fälle": "27367",
     "Davon geheilt": "20000",
@@ -22418,6 +22501,89 @@
       }
     }
   },
+  "20210127175903": {
+    "Bestätigte Fälle": "45543",
+    "Davon geheilt": "38000",
+    "Neuinfektionen": "411",
+    "Todesfälle": "1003",
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 447,
+      "Normalstation gesamt": 352,
+      "Normalstation aus Hamburg": 282,
+      "Intensiv gesamt": 95,
+      "Intensiv aus Hamburg": 77
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 545,
+        "weiblich": 481
+      },
+      "unbekannt": 365,
+      "6 bis 14 Jahre": {
+        "männlich": 1353,
+        "weiblich": 1214
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 1322,
+        "weiblich": 1326
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 4219,
+        "weiblich": 4414
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 3825,
+        "weiblich": 4107
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 3050,
+        "weiblich": 3415
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 3084,
+        "weiblich": 3072
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 1595,
+        "weiblich": 1482
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1123,
+        "weiblich": 1178
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 994,
+        "weiblich": 1650
+      },
+      "über 90 Jahre": {
+        "männlich": 242,
+        "weiblich": 870
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 6163
+      },
+      "Bergedorf": {
+        "Fallzahlen": 2749
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 5085
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 9725
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 6103
+      },
+      "Harburg": {
+        "Fallzahlen": 4398
+      },
+      "Wandsbek": {
+        "Fallzahlen": 10703
+      }
+    }
+  },
   "20210127193140": {
     "Bestätigte Fälle": "45543",
     "Davon geheilt": "38000",
@@ -27398,14 +27564,17 @@
       }
     }
   },
-  "20210401095334": {
-    "Bestätigte Fälle": 61809,
+  "20210404105008": {
+    "Bestätigte Fälle": 62961,
+    "Erstimpfungen": 222177,
+    "Zweitimpfungen": 94353,
+    "Todesfälle": 1397,
     "Patienten in klinischer Behandlung": {
-      "Stationär gesamt": 277,
-      "Normalstation gesamt": 188,
-      "Normalstation aus Hamburg": 169,
-      "Intensiv gesamt": 89,
-      "Intensiv aus Hamburg": 72
+      "Stationär gesamt": 259,
+      "Normalstation gesamt": 168,
+      "Normalstation aus Hamburg": 145,
+      "Intensiv gesamt": 91,
+      "Intensiv aus Hamburg": 76
     },
     "Verteilung der Infizierten nach Alter und Geschlecht": {
       "bis 5 Jahre": {
@@ -27476,9 +27645,4810 @@
       "Wandsbek": {
         "Fallzahlen": 13993
       }
+    }
+  },
+  "20210404121446": {
+    "Bestätigte Fälle": 62961,
+    "Erstimpfungen": 222177,
+    "Zweitimpfungen": 94353,
+    "Todesfälle": 1397,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 259,
+      "Normalstation gesamt": 168,
+      "Normalstation aus Hamburg": 145,
+      "Intensiv gesamt": 91,
+      "Intensiv aus Hamburg": 76
     },
-    "Erstimpfungen": 213839,
-    "Zweitimpfungen": 90757,
-    "Todesfälle": 1382
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 985,
+        "weiblich": 779
+      },
+      "unbekannt": 461,
+      "6 bis 14 Jahre": {
+        "männlich": 1878,
+        "weiblich": 1695
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 1728,
+        "weiblich": 1755
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 5571,
+        "weiblich": 5799
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 5318,
+        "weiblich": 5505
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4233,
+        "weiblich": 4524
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4203,
+        "weiblich": 4105
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2264,
+        "weiblich": 2060
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1505,
+        "weiblich": 1516
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1208,
+        "weiblich": 1991
+      },
+      "über 90 Jahre": {
+        "männlich": 277,
+        "weiblich": 990
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 7965
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4047
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 6590
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 13285
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 8165
+      },
+      "Harburg": {
+        "Fallzahlen": 6305
+      },
+      "Wandsbek": {
+        "Fallzahlen": 13993
+      }
+    }
+  },
+  "20210406180043": {
+    "Bestätigte Fälle": 63520,
+    "Erstimpfungen": 236183,
+    "Zweitimpfungen": 99483,
+    "Todesfälle": 1398,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 259,
+      "Normalstation gesamt": 168,
+      "Normalstation aus Hamburg": 145,
+      "Intensiv gesamt": 91,
+      "Intensiv aus Hamburg": 76
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1107,
+        "weiblich": 875
+      },
+      "unbekannt": 493,
+      "6 bis 14 Jahre": {
+        "männlich": 2021,
+        "weiblich": 1839
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 1821,
+        "weiblich": 1844
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 5809,
+        "weiblich": 6041
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 5608,
+        "weiblich": 5769
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4435,
+        "weiblich": 4738
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4405,
+        "weiblich": 4271
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2342,
+        "weiblich": 2160
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1562,
+        "weiblich": 1560
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1223,
+        "weiblich": 2017
+      },
+      "über 90 Jahre": {
+        "männlich": 281,
+        "weiblich": 995
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 8334
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4232
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 6842
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 13999
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 8570
+      },
+      "Harburg": {
+        "Fallzahlen": 6641
+      },
+      "Wandsbek": {
+        "Fallzahlen": 14598
+      }
+    }
+  },
+  "20210410215643": {
+    "Bestätigte Fälle": 65277,
+    "Erstimpfungen": 259986,
+    "Zweitimpfungen": 104145,
+    "Todesfälle": 1409,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 297,
+      "Normalstation gesamt": 192,
+      "Normalstation aus Hamburg": 163,
+      "Intensiv gesamt": 105,
+      "Intensiv aus Hamburg": 84
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1107,
+        "weiblich": 875
+      },
+      "unbekannt": 493,
+      "6 bis 14 Jahre": {
+        "männlich": 2021,
+        "weiblich": 1839
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 1821,
+        "weiblich": 1844
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 5809,
+        "weiblich": 6041
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 5608,
+        "weiblich": 5769
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4435,
+        "weiblich": 4738
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4405,
+        "weiblich": 4271
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2342,
+        "weiblich": 2160
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1562,
+        "weiblich": 1560
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1223,
+        "weiblich": 2017
+      },
+      "über 90 Jahre": {
+        "männlich": 281,
+        "weiblich": 995
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 8334
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4232
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 6842
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 13999
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 8570
+      },
+      "Harburg": {
+        "Fallzahlen": 6641
+      },
+      "Wandsbek": {
+        "Fallzahlen": 14598
+      }
+    }
+  },
+  "20210411060726": {
+    "Bestätigte Fälle": 65277,
+    "Erstimpfungen": 259986,
+    "Zweitimpfungen": 104145,
+    "Todesfälle": 1409,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 297,
+      "Normalstation gesamt": 192,
+      "Normalstation aus Hamburg": 163,
+      "Intensiv gesamt": 105,
+      "Intensiv aus Hamburg": 84
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1107,
+        "weiblich": 875
+      },
+      "unbekannt": 493,
+      "6 bis 14 Jahre": {
+        "männlich": 2021,
+        "weiblich": 1839
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 1821,
+        "weiblich": 1844
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 5809,
+        "weiblich": 6041
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 5608,
+        "weiblich": 5769
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4435,
+        "weiblich": 4738
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4405,
+        "weiblich": 4271
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2342,
+        "weiblich": 2160
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1562,
+        "weiblich": 1560
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1223,
+        "weiblich": 2017
+      },
+      "über 90 Jahre": {
+        "männlich": 281,
+        "weiblich": 995
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 8334
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4232
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 6842
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 13999
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 8570
+      },
+      "Harburg": {
+        "Fallzahlen": 6641
+      },
+      "Wandsbek": {
+        "Fallzahlen": 14598
+      }
+    }
+  },
+  "20210412074128": {
+    "Bestätigte Fälle": 65617,
+    "Erstimpfungen": 259986,
+    "Zweitimpfungen": 104145,
+    "Todesfälle": 1411,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 297,
+      "Normalstation gesamt": 192,
+      "Normalstation aus Hamburg": 163,
+      "Intensiv gesamt": 105,
+      "Intensiv aus Hamburg": 84
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1107,
+        "weiblich": 875
+      },
+      "unbekannt": 493,
+      "6 bis 14 Jahre": {
+        "männlich": 2021,
+        "weiblich": 1839
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 1821,
+        "weiblich": 1844
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 5809,
+        "weiblich": 6041
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 5608,
+        "weiblich": 5769
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4435,
+        "weiblich": 4738
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4405,
+        "weiblich": 4271
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2342,
+        "weiblich": 2160
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1562,
+        "weiblich": 1560
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1223,
+        "weiblich": 2017
+      },
+      "über 90 Jahre": {
+        "männlich": 281,
+        "weiblich": 995
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 8334
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4232
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 6842
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 13999
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 8570
+      },
+      "Harburg": {
+        "Fallzahlen": 6641
+      },
+      "Wandsbek": {
+        "Fallzahlen": 14598
+      }
+    }
+  },
+  "20210412111132": {
+    "Bestätigte Fälle": 65926,
+    "Erstimpfungen": 272586,
+    "Zweitimpfungen": 105748,
+    "Todesfälle": 1412,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 297,
+      "Normalstation gesamt": 192,
+      "Normalstation aus Hamburg": 163,
+      "Intensiv gesamt": 105,
+      "Intensiv aus Hamburg": 84
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1107,
+        "weiblich": 875
+      },
+      "unbekannt": 493,
+      "6 bis 14 Jahre": {
+        "männlich": 2021,
+        "weiblich": 1839
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 1821,
+        "weiblich": 1844
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 5809,
+        "weiblich": 6041
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 5608,
+        "weiblich": 5769
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4435,
+        "weiblich": 4738
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4405,
+        "weiblich": 4271
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2342,
+        "weiblich": 2160
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1562,
+        "weiblich": 1560
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1223,
+        "weiblich": 2017
+      },
+      "über 90 Jahre": {
+        "männlich": 281,
+        "weiblich": 995
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 8334
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4232
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 6842
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 13999
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 8570
+      },
+      "Harburg": {
+        "Fallzahlen": 6641
+      },
+      "Wandsbek": {
+        "Fallzahlen": 14598
+      }
+    }
+  },
+  "20210412111202": {
+    "Bestätigte Fälle": 65926,
+    "Erstimpfungen": 272586,
+    "Zweitimpfungen": 105748,
+    "Todesfälle": 1412,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 297,
+      "Normalstation gesamt": 192,
+      "Normalstation aus Hamburg": 163,
+      "Intensiv gesamt": 105,
+      "Intensiv aus Hamburg": 84
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1107,
+        "weiblich": 875
+      },
+      "unbekannt": 493,
+      "6 bis 14 Jahre": {
+        "männlich": 2021,
+        "weiblich": 1839
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 1821,
+        "weiblich": 1844
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 5809,
+        "weiblich": 6041
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 5608,
+        "weiblich": 5769
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4435,
+        "weiblich": 4738
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4405,
+        "weiblich": 4271
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2342,
+        "weiblich": 2160
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1562,
+        "weiblich": 1560
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1223,
+        "weiblich": 2017
+      },
+      "über 90 Jahre": {
+        "männlich": 281,
+        "weiblich": 995
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 8334
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4232
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 6842
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 13999
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 8570
+      },
+      "Harburg": {
+        "Fallzahlen": 6641
+      },
+      "Wandsbek": {
+        "Fallzahlen": 14598
+      }
+    }
+  },
+  "20210413121135": {
+    "Bestätigte Fälle": 66195,
+    "Erstimpfungen": 280638,
+    "Zweitimpfungen": 106290,
+    "Todesfälle": 1412,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 321,
+      "Normalstation gesamt": 208,
+      "Normalstation aus Hamburg": 181,
+      "Intensiv gesamt": 113,
+      "Intensiv aus Hamburg": 89
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1172,
+        "weiblich": 930
+      },
+      "unbekannt": 524,
+      "6 bis 14 Jahre": {
+        "männlich": 2184,
+        "weiblich": 1982
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 1912,
+        "weiblich": 1952
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6065,
+        "weiblich": 6288
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 5849,
+        "weiblich": 6030
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4633,
+        "weiblich": 4952
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4578,
+        "weiblich": 4428
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2441,
+        "weiblich": 2243
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1608,
+        "weiblich": 1601
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1238,
+        "weiblich": 2034
+      },
+      "über 90 Jahre": {
+        "männlich": 283,
+        "weiblich": 999
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 8684
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4431
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7074
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 14659
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 8885
+      },
+      "Harburg": {
+        "Fallzahlen": 6921
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15272
+      }
+    }
+  },
+  "20210414142451": {
+    "Bestätigte Fälle": 66674,
+    "Erstimpfungen": 288802,
+    "Zweitimpfungen": 106292,
+    "Todesfälle": 1421,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 316,
+      "Normalstation gesamt": 212,
+      "Normalstation aus Hamburg": 184,
+      "Intensiv gesamt": 104,
+      "Intensiv aus Hamburg": 84
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1172,
+        "weiblich": 930
+      },
+      "unbekannt": 524,
+      "6 bis 14 Jahre": {
+        "männlich": 2184,
+        "weiblich": 1982
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 1912,
+        "weiblich": 1952
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6065,
+        "weiblich": 6288
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 5849,
+        "weiblich": 6030
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4633,
+        "weiblich": 4952
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4578,
+        "weiblich": 4428
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2441,
+        "weiblich": 2243
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1608,
+        "weiblich": 1601
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1238,
+        "weiblich": 2034
+      },
+      "über 90 Jahre": {
+        "männlich": 283,
+        "weiblich": 999
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 8684
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4431
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7074
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 14659
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 8885
+      },
+      "Harburg": {
+        "Fallzahlen": 6921
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15272
+      }
+    }
+  },
+  "20210416193724": {
+    "Bestätigte Fälle": 67552,
+    "Erstimpfungen": 305915,
+    "Zweitimpfungen": 106900,
+    "Todesfälle": 1427,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 301,
+      "Normalstation gesamt": 194,
+      "Normalstation aus Hamburg": 166,
+      "Intensiv gesamt": 107,
+      "Intensiv aus Hamburg": 85
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1172,
+        "weiblich": 930
+      },
+      "unbekannt": 524,
+      "6 bis 14 Jahre": {
+        "männlich": 2184,
+        "weiblich": 1982
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 1912,
+        "weiblich": 1952
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6065,
+        "weiblich": 6288
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 5849,
+        "weiblich": 6030
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4633,
+        "weiblich": 4952
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4578,
+        "weiblich": 4428
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2441,
+        "weiblich": 2243
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1608,
+        "weiblich": 1601
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1238,
+        "weiblich": 2034
+      },
+      "über 90 Jahre": {
+        "männlich": 283,
+        "weiblich": 999
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 8684
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4431
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7074
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 14659
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 8885
+      },
+      "Harburg": {
+        "Fallzahlen": 6921
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15272
+      }
+    }
+  },
+  "20210417084054": {
+    "Bestätigte Fälle": 67552,
+    "Erstimpfungen": 305915,
+    "Zweitimpfungen": 106900,
+    "Todesfälle": 1427,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 301,
+      "Normalstation gesamt": 194,
+      "Normalstation aus Hamburg": 166,
+      "Intensiv gesamt": 107,
+      "Intensiv aus Hamburg": 85
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1172,
+        "weiblich": 930
+      },
+      "unbekannt": 524,
+      "6 bis 14 Jahre": {
+        "männlich": 2184,
+        "weiblich": 1982
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 1912,
+        "weiblich": 1952
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6065,
+        "weiblich": 6288
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 5849,
+        "weiblich": 6030
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4633,
+        "weiblich": 4952
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4578,
+        "weiblich": 4428
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2441,
+        "weiblich": 2243
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1608,
+        "weiblich": 1601
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1238,
+        "weiblich": 2034
+      },
+      "über 90 Jahre": {
+        "männlich": 283,
+        "weiblich": 999
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 8684
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4431
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7074
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 14659
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 8885
+      },
+      "Harburg": {
+        "Fallzahlen": 6921
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15272
+      }
+    }
+  },
+  "20210417112200": {
+    "Bestätigte Fälle": 67954,
+    "Erstimpfungen": 313858,
+    "Zweitimpfungen": 107087,
+    "Todesfälle": 1429,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 281,
+      "Normalstation gesamt": 178,
+      "Normalstation aus Hamburg": 148,
+      "Intensiv gesamt": 103,
+      "Intensiv aus Hamburg": 81
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1172,
+        "weiblich": 930
+      },
+      "unbekannt": 524,
+      "6 bis 14 Jahre": {
+        "männlich": 2184,
+        "weiblich": 1982
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 1912,
+        "weiblich": 1952
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6065,
+        "weiblich": 6288
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 5849,
+        "weiblich": 6030
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4633,
+        "weiblich": 4952
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4578,
+        "weiblich": 4428
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2441,
+        "weiblich": 2243
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1608,
+        "weiblich": 1601
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1238,
+        "weiblich": 2034
+      },
+      "über 90 Jahre": {
+        "männlich": 283,
+        "weiblich": 999
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 8684
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4431
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7074
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 14659
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 8885
+      },
+      "Harburg": {
+        "Fallzahlen": 6921
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15272
+      }
+    }
+  },
+  "20210417194940": {
+    "Bestätigte Fälle": 67954,
+    "Erstimpfungen": 313858,
+    "Zweitimpfungen": 107087,
+    "Todesfälle": 1429,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 281,
+      "Normalstation gesamt": 178,
+      "Normalstation aus Hamburg": 148,
+      "Intensiv gesamt": 103,
+      "Intensiv aus Hamburg": 81
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1172,
+        "weiblich": 930
+      },
+      "unbekannt": 524,
+      "6 bis 14 Jahre": {
+        "männlich": 2184,
+        "weiblich": 1982
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 1912,
+        "weiblich": 1952
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6065,
+        "weiblich": 6288
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 5849,
+        "weiblich": 6030
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4633,
+        "weiblich": 4952
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4578,
+        "weiblich": 4428
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2441,
+        "weiblich": 2243
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1608,
+        "weiblich": 1601
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1238,
+        "weiblich": 2034
+      },
+      "über 90 Jahre": {
+        "männlich": 283,
+        "weiblich": 999
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 8684
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4431
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7074
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 14659
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 8885
+      },
+      "Harburg": {
+        "Fallzahlen": 6921
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15272
+      }
+    }
+  },
+  "20210418003131": {
+    "Bestätigte Fälle": 67954,
+    "Erstimpfungen": 313858,
+    "Zweitimpfungen": 107087,
+    "Todesfälle": 1429,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 281,
+      "Normalstation gesamt": 178,
+      "Normalstation aus Hamburg": 148,
+      "Intensiv gesamt": 103,
+      "Intensiv aus Hamburg": 81
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1172,
+        "weiblich": 930
+      },
+      "unbekannt": 524,
+      "6 bis 14 Jahre": {
+        "männlich": 2184,
+        "weiblich": 1982
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 1912,
+        "weiblich": 1952
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6065,
+        "weiblich": 6288
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 5849,
+        "weiblich": 6030
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4633,
+        "weiblich": 4952
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4578,
+        "weiblich": 4428
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2441,
+        "weiblich": 2243
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1608,
+        "weiblich": 1601
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1238,
+        "weiblich": 2034
+      },
+      "über 90 Jahre": {
+        "männlich": 283,
+        "weiblich": 999
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 8684
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4431
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7074
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 14659
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 8885
+      },
+      "Harburg": {
+        "Fallzahlen": 6921
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15272
+      }
+    }
+  },
+  "20210418115932": {
+    "Bestätigte Fälle": 68251,
+    "Erstimpfungen": 313858,
+    "Zweitimpfungen": 107087,
+    "Todesfälle": 1431,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 281,
+      "Normalstation gesamt": 178,
+      "Normalstation aus Hamburg": 148,
+      "Intensiv gesamt": 103,
+      "Intensiv aus Hamburg": 81
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1172,
+        "weiblich": 930
+      },
+      "unbekannt": 524,
+      "6 bis 14 Jahre": {
+        "männlich": 2184,
+        "weiblich": 1982
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 1912,
+        "weiblich": 1952
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6065,
+        "weiblich": 6288
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 5849,
+        "weiblich": 6030
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4633,
+        "weiblich": 4952
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4578,
+        "weiblich": 4428
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2441,
+        "weiblich": 2243
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1608,
+        "weiblich": 1601
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1238,
+        "weiblich": 2034
+      },
+      "über 90 Jahre": {
+        "männlich": 283,
+        "weiblich": 999
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 8684
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4431
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7074
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 14659
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 8885
+      },
+      "Harburg": {
+        "Fallzahlen": 6921
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15272
+      }
+    }
+  },
+  "20210418133146": {
+    "Bestätigte Fälle": 68251,
+    "Erstimpfungen": 313858,
+    "Zweitimpfungen": 107087,
+    "Todesfälle": 1431,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 281,
+      "Normalstation gesamt": 178,
+      "Normalstation aus Hamburg": 148,
+      "Intensiv gesamt": 103,
+      "Intensiv aus Hamburg": 81
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1172,
+        "weiblich": 930
+      },
+      "unbekannt": 524,
+      "6 bis 14 Jahre": {
+        "männlich": 2184,
+        "weiblich": 1982
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 1912,
+        "weiblich": 1952
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6065,
+        "weiblich": 6288
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 5849,
+        "weiblich": 6030
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4633,
+        "weiblich": 4952
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4578,
+        "weiblich": 4428
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2441,
+        "weiblich": 2243
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1608,
+        "weiblich": 1601
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1238,
+        "weiblich": 2034
+      },
+      "über 90 Jahre": {
+        "männlich": 283,
+        "weiblich": 999
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 8684
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4431
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7074
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 14659
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 8885
+      },
+      "Harburg": {
+        "Fallzahlen": 6921
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15272
+      }
+    }
+  },
+  "20210418174953": {
+    "Bestätigte Fälle": 68251,
+    "Erstimpfungen": 313858,
+    "Zweitimpfungen": 107087,
+    "Todesfälle": 1431,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 281,
+      "Normalstation gesamt": 178,
+      "Normalstation aus Hamburg": 148,
+      "Intensiv gesamt": 103,
+      "Intensiv aus Hamburg": 81
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1172,
+        "weiblich": 930
+      },
+      "unbekannt": 524,
+      "6 bis 14 Jahre": {
+        "männlich": 2184,
+        "weiblich": 1982
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 1912,
+        "weiblich": 1952
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6065,
+        "weiblich": 6288
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 5849,
+        "weiblich": 6030
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4633,
+        "weiblich": 4952
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4578,
+        "weiblich": 4428
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2441,
+        "weiblich": 2243
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1608,
+        "weiblich": 1601
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1238,
+        "weiblich": 2034
+      },
+      "über 90 Jahre": {
+        "männlich": 283,
+        "weiblich": 999
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 8684
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4431
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7074
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 14659
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 8885
+      },
+      "Harburg": {
+        "Fallzahlen": 6921
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15272
+      }
+    }
+  },
+  "20210418222225": {
+    "Bestätigte Fälle": 68251,
+    "Erstimpfungen": 313858,
+    "Zweitimpfungen": 107087,
+    "Todesfälle": 1431,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 281,
+      "Normalstation gesamt": 178,
+      "Normalstation aus Hamburg": 148,
+      "Intensiv gesamt": 103,
+      "Intensiv aus Hamburg": 81
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1172,
+        "weiblich": 930
+      },
+      "unbekannt": 524,
+      "6 bis 14 Jahre": {
+        "männlich": 2184,
+        "weiblich": 1982
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 1912,
+        "weiblich": 1952
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6065,
+        "weiblich": 6288
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 5849,
+        "weiblich": 6030
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4633,
+        "weiblich": 4952
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4578,
+        "weiblich": 4428
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2441,
+        "weiblich": 2243
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1608,
+        "weiblich": 1601
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1238,
+        "weiblich": 2034
+      },
+      "über 90 Jahre": {
+        "männlich": 283,
+        "weiblich": 999
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 8684
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4431
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7074
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 14659
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 8885
+      },
+      "Harburg": {
+        "Fallzahlen": 6921
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15272
+      }
+    }
+  },
+  "20210420100733": {
+    "Bestätigte Fälle": 68748,
+    "Erstimpfungen": 336610,
+    "Zweitimpfungen": 107390,
+    "Todesfälle": 1434,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 311,
+      "Normalstation gesamt": 200,
+      "Normalstation aus Hamburg": 174,
+      "Intensiv gesamt": 111,
+      "Intensiv aus Hamburg": 90
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1230,
+        "weiblich": 990
+      },
+      "unbekannt": 557,
+      "6 bis 14 Jahre": {
+        "männlich": 2326,
+        "weiblich": 2101
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2012,
+        "weiblich": 2050
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6304,
+        "weiblich": 6541
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6105,
+        "weiblich": 6253
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4832,
+        "weiblich": 5127
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4760,
+        "weiblich": 4588
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2536,
+        "weiblich": 2334
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1642,
+        "weiblich": 1636
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1253,
+        "weiblich": 2053
+      },
+      "über 90 Jahre": {
+        "männlich": 285,
+        "weiblich": 1006
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9004
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4608
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7282
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 15349
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9171
+      },
+      "Harburg": {
+        "Fallzahlen": 7248
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15859
+      }
+    }
+  },
+  "20210421044136": {
+    "Bestätigte Fälle": 68748,
+    "Erstimpfungen": 336610,
+    "Zweitimpfungen": 107390,
+    "Todesfälle": 1434,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 311,
+      "Normalstation gesamt": 200,
+      "Normalstation aus Hamburg": 174,
+      "Intensiv gesamt": 111,
+      "Intensiv aus Hamburg": 90
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1230,
+        "weiblich": 990
+      },
+      "unbekannt": 557,
+      "6 bis 14 Jahre": {
+        "männlich": 2326,
+        "weiblich": 2101
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2012,
+        "weiblich": 2050
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6304,
+        "weiblich": 6541
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6105,
+        "weiblich": 6253
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4832,
+        "weiblich": 5127
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4760,
+        "weiblich": 4588
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2536,
+        "weiblich": 2334
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1642,
+        "weiblich": 1636
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1253,
+        "weiblich": 2053
+      },
+      "über 90 Jahre": {
+        "männlich": 285,
+        "weiblich": 1006
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9004
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4608
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7282
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 15349
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9171
+      },
+      "Harburg": {
+        "Fallzahlen": 7248
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15859
+      }
+    }
+  },
+  "20210421223331": {
+    "Bestätigte Fälle": 69148,
+    "Erstimpfungen": 345794,
+    "Zweitimpfungen": 107766,
+    "Todesfälle": 1438,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 308,
+      "Normalstation gesamt": 188,
+      "Normalstation aus Hamburg": 164,
+      "Intensiv gesamt": 120,
+      "Intensiv aus Hamburg": 98
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1230,
+        "weiblich": 990
+      },
+      "unbekannt": 557,
+      "6 bis 14 Jahre": {
+        "männlich": 2326,
+        "weiblich": 2101
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2012,
+        "weiblich": 2050
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6304,
+        "weiblich": 6541
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6105,
+        "weiblich": 6253
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4832,
+        "weiblich": 5127
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4760,
+        "weiblich": 4588
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2536,
+        "weiblich": 2334
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1642,
+        "weiblich": 1636
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1253,
+        "weiblich": 2053
+      },
+      "über 90 Jahre": {
+        "männlich": 285,
+        "weiblich": 1006
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9004
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4608
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7282
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 15349
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9171
+      },
+      "Harburg": {
+        "Fallzahlen": 7248
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15859
+      }
+    }
+  },
+  "20210423024954": {
+    "Bestätigte Fälle": 69564,
+    "Erstimpfungen": 354829,
+    "Zweitimpfungen": 107910,
+    "Todesfälle": 1442,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 304,
+      "Normalstation gesamt": 187,
+      "Normalstation aus Hamburg": 163,
+      "Intensiv gesamt": 117,
+      "Intensiv aus Hamburg": 97
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1230,
+        "weiblich": 990
+      },
+      "unbekannt": 557,
+      "6 bis 14 Jahre": {
+        "männlich": 2326,
+        "weiblich": 2101
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2012,
+        "weiblich": 2050
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6304,
+        "weiblich": 6541
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6105,
+        "weiblich": 6253
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4832,
+        "weiblich": 5127
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4760,
+        "weiblich": 4588
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2536,
+        "weiblich": 2334
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1642,
+        "weiblich": 1636
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1253,
+        "weiblich": 2053
+      },
+      "über 90 Jahre": {
+        "männlich": 285,
+        "weiblich": 1006
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9004
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4608
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7282
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 15349
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9171
+      },
+      "Harburg": {
+        "Fallzahlen": 7248
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15859
+      }
+    }
+  },
+  "20210424051237": {
+    "Bestätigte Fälle": 69925,
+    "Erstimpfungen": 364354,
+    "Zweitimpfungen": 108270,
+    "Todesfälle": 1447,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 298,
+      "Normalstation gesamt": 178,
+      "Normalstation aus Hamburg": 151,
+      "Intensiv gesamt": 120,
+      "Intensiv aus Hamburg": 99
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1230,
+        "weiblich": 990
+      },
+      "unbekannt": 557,
+      "6 bis 14 Jahre": {
+        "männlich": 2326,
+        "weiblich": 2101
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2012,
+        "weiblich": 2050
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6304,
+        "weiblich": 6541
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6105,
+        "weiblich": 6253
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4832,
+        "weiblich": 5127
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4760,
+        "weiblich": 4588
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2536,
+        "weiblich": 2334
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1642,
+        "weiblich": 1636
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1253,
+        "weiblich": 2053
+      },
+      "über 90 Jahre": {
+        "männlich": 285,
+        "weiblich": 1006
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9004
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4608
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7282
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 15349
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9171
+      },
+      "Harburg": {
+        "Fallzahlen": 7248
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15859
+      }
+    }
+  },
+  "20210425043713": {
+    "Bestätigte Fälle": 70163,
+    "Erstimpfungen": 374253,
+    "Zweitimpfungen": 108391,
+    "Todesfälle": 1456,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 295,
+      "Normalstation gesamt": 182,
+      "Normalstation aus Hamburg": 156,
+      "Intensiv gesamt": 113,
+      "Intensiv aus Hamburg": 91
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1230,
+        "weiblich": 990
+      },
+      "unbekannt": 557,
+      "6 bis 14 Jahre": {
+        "männlich": 2326,
+        "weiblich": 2101
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2012,
+        "weiblich": 2050
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6304,
+        "weiblich": 6541
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6105,
+        "weiblich": 6253
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4832,
+        "weiblich": 5127
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4760,
+        "weiblich": 4588
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2536,
+        "weiblich": 2334
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1642,
+        "weiblich": 1636
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1253,
+        "weiblich": 2053
+      },
+      "über 90 Jahre": {
+        "männlich": 285,
+        "weiblich": 1006
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9004
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4608
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7282
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 15349
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9171
+      },
+      "Harburg": {
+        "Fallzahlen": 7248
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15859
+      }
+    }
+  },
+  "20210425043726": {
+    "Bestätigte Fälle": 70163,
+    "Erstimpfungen": 374253,
+    "Zweitimpfungen": 108391,
+    "Todesfälle": 1456,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 295,
+      "Normalstation gesamt": 182,
+      "Normalstation aus Hamburg": 156,
+      "Intensiv gesamt": 113,
+      "Intensiv aus Hamburg": 91
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1230,
+        "weiblich": 990
+      },
+      "unbekannt": 557,
+      "6 bis 14 Jahre": {
+        "männlich": 2326,
+        "weiblich": 2101
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2012,
+        "weiblich": 2050
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6304,
+        "weiblich": 6541
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6105,
+        "weiblich": 6253
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4832,
+        "weiblich": 5127
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4760,
+        "weiblich": 4588
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2536,
+        "weiblich": 2334
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1642,
+        "weiblich": 1636
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1253,
+        "weiblich": 2053
+      },
+      "über 90 Jahre": {
+        "männlich": 285,
+        "weiblich": 1006
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9004
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4608
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7282
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 15349
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9171
+      },
+      "Harburg": {
+        "Fallzahlen": 7248
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15859
+      }
+    }
+  },
+  "20210425065111": {
+    "Bestätigte Fälle": 70163,
+    "Erstimpfungen": 374253,
+    "Zweitimpfungen": 108391,
+    "Todesfälle": 1456,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 295,
+      "Normalstation gesamt": 182,
+      "Normalstation aus Hamburg": 156,
+      "Intensiv gesamt": 113,
+      "Intensiv aus Hamburg": 91
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1230,
+        "weiblich": 990
+      },
+      "unbekannt": 557,
+      "6 bis 14 Jahre": {
+        "männlich": 2326,
+        "weiblich": 2101
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2012,
+        "weiblich": 2050
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6304,
+        "weiblich": 6541
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6105,
+        "weiblich": 6253
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4832,
+        "weiblich": 5127
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4760,
+        "weiblich": 4588
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2536,
+        "weiblich": 2334
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1642,
+        "weiblich": 1636
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1253,
+        "weiblich": 2053
+      },
+      "über 90 Jahre": {
+        "männlich": 285,
+        "weiblich": 1006
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9004
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4608
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7282
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 15349
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9171
+      },
+      "Harburg": {
+        "Fallzahlen": 7248
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15859
+      }
+    }
+  },
+  "20210425114905": {
+    "Bestätigte Fälle": 70477,
+    "Erstimpfungen": 374253,
+    "Zweitimpfungen": 108391,
+    "Todesfälle": 1461,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 295,
+      "Normalstation gesamt": 182,
+      "Normalstation aus Hamburg": 156,
+      "Intensiv gesamt": 113,
+      "Intensiv aus Hamburg": 91
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1230,
+        "weiblich": 990
+      },
+      "unbekannt": 557,
+      "6 bis 14 Jahre": {
+        "männlich": 2326,
+        "weiblich": 2101
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2012,
+        "weiblich": 2050
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6304,
+        "weiblich": 6541
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6105,
+        "weiblich": 6253
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4832,
+        "weiblich": 5127
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4760,
+        "weiblich": 4588
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2536,
+        "weiblich": 2334
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1642,
+        "weiblich": 1636
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1253,
+        "weiblich": 2053
+      },
+      "über 90 Jahre": {
+        "männlich": 285,
+        "weiblich": 1006
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9004
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4608
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7282
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 15349
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9171
+      },
+      "Harburg": {
+        "Fallzahlen": 7248
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15859
+      }
+    }
+  },
+  "20210426063316": {
+    "Bestätigte Fälle": 70477,
+    "Erstimpfungen": 374253,
+    "Zweitimpfungen": 108391,
+    "Todesfälle": 1461,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 295,
+      "Normalstation gesamt": 182,
+      "Normalstation aus Hamburg": 156,
+      "Intensiv gesamt": 113,
+      "Intensiv aus Hamburg": 91
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1230,
+        "weiblich": 990
+      },
+      "unbekannt": 557,
+      "6 bis 14 Jahre": {
+        "männlich": 2326,
+        "weiblich": 2101
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2012,
+        "weiblich": 2050
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6304,
+        "weiblich": 6541
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6105,
+        "weiblich": 6253
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4832,
+        "weiblich": 5127
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4760,
+        "weiblich": 4588
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2536,
+        "weiblich": 2334
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1642,
+        "weiblich": 1636
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1253,
+        "weiblich": 2053
+      },
+      "über 90 Jahre": {
+        "männlich": 285,
+        "weiblich": 1006
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9004
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4608
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7282
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 15349
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9171
+      },
+      "Harburg": {
+        "Fallzahlen": 7248
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15859
+      }
+    }
+  },
+  "20210426103125": {
+    "Bestätigte Fälle": 70709,
+    "Erstimpfungen": 374253,
+    "Zweitimpfungen": 108391,
+    "Todesfälle": 1461,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 295,
+      "Normalstation gesamt": 182,
+      "Normalstation aus Hamburg": 156,
+      "Intensiv gesamt": 113,
+      "Intensiv aus Hamburg": 91
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1230,
+        "weiblich": 990
+      },
+      "unbekannt": 557,
+      "6 bis 14 Jahre": {
+        "männlich": 2326,
+        "weiblich": 2101
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2012,
+        "weiblich": 2050
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6304,
+        "weiblich": 6541
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6105,
+        "weiblich": 6253
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4832,
+        "weiblich": 5127
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4760,
+        "weiblich": 4588
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2536,
+        "weiblich": 2334
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1642,
+        "weiblich": 1636
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1253,
+        "weiblich": 2053
+      },
+      "über 90 Jahre": {
+        "männlich": 285,
+        "weiblich": 1006
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9004
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4608
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7282
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 15349
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9171
+      },
+      "Harburg": {
+        "Fallzahlen": 7248
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15859
+      }
+    }
+  },
+  "20210427053842": {
+    "Bestätigte Fälle": 70709,
+    "Erstimpfungen": 374253,
+    "Zweitimpfungen": 108391,
+    "Todesfälle": 1461,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 295,
+      "Normalstation gesamt": 182,
+      "Normalstation aus Hamburg": 156,
+      "Intensiv gesamt": 113,
+      "Intensiv aus Hamburg": 91
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1230,
+        "weiblich": 990
+      },
+      "unbekannt": 557,
+      "6 bis 14 Jahre": {
+        "männlich": 2326,
+        "weiblich": 2101
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2012,
+        "weiblich": 2050
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6304,
+        "weiblich": 6541
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6105,
+        "weiblich": 6253
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 4832,
+        "weiblich": 5127
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4760,
+        "weiblich": 4588
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2536,
+        "weiblich": 2334
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1642,
+        "weiblich": 1636
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1253,
+        "weiblich": 2053
+      },
+      "über 90 Jahre": {
+        "männlich": 285,
+        "weiblich": 1006
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9004
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4608
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7282
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 15349
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9171
+      },
+      "Harburg": {
+        "Fallzahlen": 7248
+      },
+      "Wandsbek": {
+        "Fallzahlen": 15859
+      }
+    }
+  },
+  "20210427190519": {
+    "Bestätigte Fälle": 70919,
+    "Erstimpfungen": 391643,
+    "Zweitimpfungen": 114333,
+    "Todesfälle": 1467,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 306,
+      "Normalstation gesamt": 192,
+      "Normalstation aus Hamburg": 162,
+      "Intensiv gesamt": 114,
+      "Intensiv aus Hamburg": 89
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1277,
+        "weiblich": 1031
+      },
+      "unbekannt": 576,
+      "6 bis 14 Jahre": {
+        "männlich": 2450,
+        "weiblich": 2206
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2095,
+        "weiblich": 2129
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6514,
+        "weiblich": 6696
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6323,
+        "weiblich": 6430
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5000,
+        "weiblich": 5283
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4945,
+        "weiblich": 4715
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2628,
+        "weiblich": 2409
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1685,
+        "weiblich": 1673
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1270,
+        "weiblich": 2077
+      },
+      "über 90 Jahre": {
+        "männlich": 286,
+        "weiblich": 1011
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9302
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4749
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7520
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 15920
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9419
+      },
+      "Harburg": {
+        "Fallzahlen": 7485
+      },
+      "Wandsbek": {
+        "Fallzahlen": 16314
+      }
+    }
+  },
+  "20210501083006": {
+    "Bestätigte Fälle": 71877,
+    "Erstimpfungen": 408768,
+    "Zweitimpfungen": 123105,
+    "Todesfälle": 1488,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 275,
+      "Normalstation gesamt": 166,
+      "Normalstation aus Hamburg": 144,
+      "Intensiv gesamt": 109,
+      "Intensiv aus Hamburg": 86
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1277,
+        "weiblich": 1031
+      },
+      "unbekannt": 576,
+      "6 bis 14 Jahre": {
+        "männlich": 2450,
+        "weiblich": 2206
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2095,
+        "weiblich": 2129
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6514,
+        "weiblich": 6696
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6323,
+        "weiblich": 6430
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5000,
+        "weiblich": 5283
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4945,
+        "weiblich": 4715
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2628,
+        "weiblich": 2409
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1685,
+        "weiblich": 1673
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1270,
+        "weiblich": 2077
+      },
+      "über 90 Jahre": {
+        "männlich": 286,
+        "weiblich": 1011
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9302
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4749
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7520
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 15920
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9419
+      },
+      "Harburg": {
+        "Fallzahlen": 7485
+      },
+      "Wandsbek": {
+        "Fallzahlen": 16314
+      }
+    }
+  },
+  "20210501235331": {
+    "Bestätigte Fälle": 72189,
+    "Erstimpfungen": 408768,
+    "Zweitimpfungen": 123105,
+    "Todesfälle": 1496,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 270,
+      "Normalstation gesamt": 155,
+      "Normalstation aus Hamburg": 134,
+      "Intensiv gesamt": 115,
+      "Intensiv aus Hamburg": 92
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1277,
+        "weiblich": 1031
+      },
+      "unbekannt": 576,
+      "6 bis 14 Jahre": {
+        "männlich": 2450,
+        "weiblich": 2206
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2095,
+        "weiblich": 2129
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6514,
+        "weiblich": 6696
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6323,
+        "weiblich": 6430
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5000,
+        "weiblich": 5283
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4945,
+        "weiblich": 4715
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2628,
+        "weiblich": 2409
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1685,
+        "weiblich": 1673
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1270,
+        "weiblich": 2077
+      },
+      "über 90 Jahre": {
+        "männlich": 286,
+        "weiblich": 1011
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9302
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4749
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7520
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 15920
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9419
+      },
+      "Harburg": {
+        "Fallzahlen": 7485
+      },
+      "Wandsbek": {
+        "Fallzahlen": 16314
+      }
+    }
+  },
+  "20210502075941": {
+    "Bestätigte Fälle": 72189,
+    "Erstimpfungen": 408768,
+    "Zweitimpfungen": 123105,
+    "Todesfälle": 1496,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 270,
+      "Normalstation gesamt": 155,
+      "Normalstation aus Hamburg": 134,
+      "Intensiv gesamt": 115,
+      "Intensiv aus Hamburg": 92
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1277,
+        "weiblich": 1031
+      },
+      "unbekannt": 576,
+      "6 bis 14 Jahre": {
+        "männlich": 2450,
+        "weiblich": 2206
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2095,
+        "weiblich": 2129
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6514,
+        "weiblich": 6696
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6323,
+        "weiblich": 6430
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5000,
+        "weiblich": 5283
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4945,
+        "weiblich": 4715
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2628,
+        "weiblich": 2409
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1685,
+        "weiblich": 1673
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1270,
+        "weiblich": 2077
+      },
+      "über 90 Jahre": {
+        "männlich": 286,
+        "weiblich": 1011
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9302
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4749
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7520
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 15920
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9419
+      },
+      "Harburg": {
+        "Fallzahlen": 7485
+      },
+      "Wandsbek": {
+        "Fallzahlen": 16314
+      }
+    }
+  },
+  "20210502081453": {
+    "Bestätigte Fälle": 72189,
+    "Erstimpfungen": 408768,
+    "Zweitimpfungen": 123105,
+    "Todesfälle": 1496,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 270,
+      "Normalstation gesamt": 155,
+      "Normalstation aus Hamburg": 134,
+      "Intensiv gesamt": 115,
+      "Intensiv aus Hamburg": 92
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1277,
+        "weiblich": 1031
+      },
+      "unbekannt": 576,
+      "6 bis 14 Jahre": {
+        "männlich": 2450,
+        "weiblich": 2206
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2095,
+        "weiblich": 2129
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6514,
+        "weiblich": 6696
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6323,
+        "weiblich": 6430
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5000,
+        "weiblich": 5283
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4945,
+        "weiblich": 4715
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2628,
+        "weiblich": 2409
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1685,
+        "weiblich": 1673
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1270,
+        "weiblich": 2077
+      },
+      "über 90 Jahre": {
+        "männlich": 286,
+        "weiblich": 1011
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9302
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4749
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7520
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 15920
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9419
+      },
+      "Harburg": {
+        "Fallzahlen": 7485
+      },
+      "Wandsbek": {
+        "Fallzahlen": 16314
+      }
+    }
+  },
+  "20210502134347": {
+    "Bestätigte Fälle": 72392,
+    "Erstimpfungen": 408768,
+    "Zweitimpfungen": 123105,
+    "Todesfälle": 1502,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 270,
+      "Normalstation gesamt": 155,
+      "Normalstation aus Hamburg": 134,
+      "Intensiv gesamt": 115,
+      "Intensiv aus Hamburg": 92
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1277,
+        "weiblich": 1031
+      },
+      "unbekannt": 576,
+      "6 bis 14 Jahre": {
+        "männlich": 2450,
+        "weiblich": 2206
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2095,
+        "weiblich": 2129
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6514,
+        "weiblich": 6696
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6323,
+        "weiblich": 6430
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5000,
+        "weiblich": 5283
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4945,
+        "weiblich": 4715
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2628,
+        "weiblich": 2409
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1685,
+        "weiblich": 1673
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1270,
+        "weiblich": 2077
+      },
+      "über 90 Jahre": {
+        "männlich": 286,
+        "weiblich": 1011
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9302
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4749
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7520
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 15920
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9419
+      },
+      "Harburg": {
+        "Fallzahlen": 7485
+      },
+      "Wandsbek": {
+        "Fallzahlen": 16314
+      }
+    }
+  },
+  "20210503091916": {
+    "Bestätigte Fälle": 72392,
+    "Erstimpfungen": 408768,
+    "Zweitimpfungen": 123105,
+    "Todesfälle": 1502,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 270,
+      "Normalstation gesamt": 155,
+      "Normalstation aus Hamburg": 134,
+      "Intensiv gesamt": 115,
+      "Intensiv aus Hamburg": 92
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1277,
+        "weiblich": 1031
+      },
+      "unbekannt": 576,
+      "6 bis 14 Jahre": {
+        "männlich": 2450,
+        "weiblich": 2206
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2095,
+        "weiblich": 2129
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6514,
+        "weiblich": 6696
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6323,
+        "weiblich": 6430
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5000,
+        "weiblich": 5283
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4945,
+        "weiblich": 4715
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2628,
+        "weiblich": 2409
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1685,
+        "weiblich": 1673
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1270,
+        "weiblich": 2077
+      },
+      "über 90 Jahre": {
+        "männlich": 286,
+        "weiblich": 1011
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9302
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4749
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7520
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 15920
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9419
+      },
+      "Harburg": {
+        "Fallzahlen": 7485
+      },
+      "Wandsbek": {
+        "Fallzahlen": 16314
+      }
+    }
+  },
+  "20210504073610": {
+    "Bestätigte Fälle": 72582,
+    "Erstimpfungen": 427828,
+    "Zweitimpfungen": 130407,
+    "Todesfälle": 1503,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 270,
+      "Normalstation gesamt": 155,
+      "Normalstation aus Hamburg": 134,
+      "Intensiv gesamt": 115,
+      "Intensiv aus Hamburg": 92
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1277,
+        "weiblich": 1031
+      },
+      "unbekannt": 576,
+      "6 bis 14 Jahre": {
+        "männlich": 2450,
+        "weiblich": 2206
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2095,
+        "weiblich": 2129
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6514,
+        "weiblich": 6696
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6323,
+        "weiblich": 6430
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5000,
+        "weiblich": 5283
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 4945,
+        "weiblich": 4715
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2628,
+        "weiblich": 2409
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1685,
+        "weiblich": 1673
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1270,
+        "weiblich": 2077
+      },
+      "über 90 Jahre": {
+        "männlich": 286,
+        "weiblich": 1011
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9302
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4749
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7520
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 15920
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9419
+      },
+      "Harburg": {
+        "Fallzahlen": 7485
+      },
+      "Wandsbek": {
+        "Fallzahlen": 16314
+      }
+    }
+  },
+  "20210506140230": {
+    "Bestätigte Fälle": 73338,
+    "Erstimpfungen": 444119,
+    "Zweitimpfungen": 139190,
+    "Todesfälle": 1513,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 232,
+      "Normalstation gesamt": 137,
+      "Normalstation aus Hamburg": 114,
+      "Intensiv gesamt": 95,
+      "Intensiv aus Hamburg": 74
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1321,
+        "weiblich": 1077
+      },
+      "unbekannt": 593,
+      "6 bis 14 Jahre": {
+        "männlich": 2550,
+        "weiblich": 2296
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2163,
+        "weiblich": 2191
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6725,
+        "weiblich": 6861
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6505,
+        "weiblich": 6601
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5151,
+        "weiblich": 5400
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 5066,
+        "weiblich": 4833
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2701,
+        "weiblich": 2464
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1725,
+        "weiblich": 1703
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1278,
+        "weiblich": 2089
+      },
+      "über 90 Jahre": {
+        "männlich": 282,
+        "weiblich": 1007
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9547
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4889
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7680
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 16412
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9615
+      },
+      "Harburg": {
+        "Fallzahlen": 7716
+      },
+      "Wandsbek": {
+        "Fallzahlen": 16723
+      }
+    }
+  },
+  "20210506145932": {
+    "Bestätigte Fälle": 73338,
+    "Erstimpfungen": 444119,
+    "Zweitimpfungen": 139190,
+    "Todesfälle": 1513,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 232,
+      "Normalstation gesamt": 137,
+      "Normalstation aus Hamburg": 114,
+      "Intensiv gesamt": 95,
+      "Intensiv aus Hamburg": 74
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1321,
+        "weiblich": 1077
+      },
+      "unbekannt": 593,
+      "6 bis 14 Jahre": {
+        "männlich": 2550,
+        "weiblich": 2296
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2163,
+        "weiblich": 2191
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6725,
+        "weiblich": 6861
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6505,
+        "weiblich": 6601
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5151,
+        "weiblich": 5400
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 5066,
+        "weiblich": 4833
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2701,
+        "weiblich": 2464
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1725,
+        "weiblich": 1703
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1278,
+        "weiblich": 2089
+      },
+      "über 90 Jahre": {
+        "männlich": 282,
+        "weiblich": 1007
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9547
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4889
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7680
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 16412
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9615
+      },
+      "Harburg": {
+        "Fallzahlen": 7716
+      },
+      "Wandsbek": {
+        "Fallzahlen": 16723
+      }
+    }
+  },
+  "20210507042817": {
+    "Bestätigte Fälle": 73338,
+    "Erstimpfungen": 444119,
+    "Zweitimpfungen": 139190,
+    "Todesfälle": 1513,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 232,
+      "Normalstation gesamt": 137,
+      "Normalstation aus Hamburg": 114,
+      "Intensiv gesamt": 95,
+      "Intensiv aus Hamburg": 74
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1321,
+        "weiblich": 1077
+      },
+      "unbekannt": 593,
+      "6 bis 14 Jahre": {
+        "männlich": 2550,
+        "weiblich": 2296
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2163,
+        "weiblich": 2191
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6725,
+        "weiblich": 6861
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6505,
+        "weiblich": 6601
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5151,
+        "weiblich": 5400
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 5066,
+        "weiblich": 4833
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2701,
+        "weiblich": 2464
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1725,
+        "weiblich": 1703
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1278,
+        "weiblich": 2089
+      },
+      "über 90 Jahre": {
+        "männlich": 282,
+        "weiblich": 1007
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9547
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4889
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7680
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 16412
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9615
+      },
+      "Harburg": {
+        "Fallzahlen": 7716
+      },
+      "Wandsbek": {
+        "Fallzahlen": 16723
+      }
+    }
+  },
+  "20210508151325": {
+    "Bestätigte Fälle": 73836,
+    "Erstimpfungen": 455550,
+    "Zweitimpfungen": 145131,
+    "Todesfälle": 1517,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 206,
+      "Normalstation gesamt": 124,
+      "Normalstation aus Hamburg": 102,
+      "Intensiv gesamt": 82,
+      "Intensiv aus Hamburg": 62
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1321,
+        "weiblich": 1077
+      },
+      "unbekannt": 593,
+      "6 bis 14 Jahre": {
+        "männlich": 2550,
+        "weiblich": 2296
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2163,
+        "weiblich": 2191
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6725,
+        "weiblich": 6861
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6505,
+        "weiblich": 6601
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5151,
+        "weiblich": 5400
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 5066,
+        "weiblich": 4833
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2701,
+        "weiblich": 2464
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1725,
+        "weiblich": 1703
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1278,
+        "weiblich": 2089
+      },
+      "über 90 Jahre": {
+        "männlich": 282,
+        "weiblich": 1007
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9547
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4889
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7680
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 16412
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9615
+      },
+      "Harburg": {
+        "Fallzahlen": 7716
+      },
+      "Wandsbek": {
+        "Fallzahlen": 16723
+      }
+    }
+  },
+  "20210509034321": {
+    "Bestätigte Fälle": 73836,
+    "Erstimpfungen": 455550,
+    "Zweitimpfungen": 145131,
+    "Todesfälle": 1517,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 206,
+      "Normalstation gesamt": 124,
+      "Normalstation aus Hamburg": 102,
+      "Intensiv gesamt": 82,
+      "Intensiv aus Hamburg": 62
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1321,
+        "weiblich": 1077
+      },
+      "unbekannt": 593,
+      "6 bis 14 Jahre": {
+        "männlich": 2550,
+        "weiblich": 2296
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2163,
+        "weiblich": 2191
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6725,
+        "weiblich": 6861
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6505,
+        "weiblich": 6601
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5151,
+        "weiblich": 5400
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 5066,
+        "weiblich": 4833
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2701,
+        "weiblich": 2464
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1725,
+        "weiblich": 1703
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1278,
+        "weiblich": 2089
+      },
+      "über 90 Jahre": {
+        "männlich": 282,
+        "weiblich": 1007
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9547
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4889
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7680
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 16412
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9615
+      },
+      "Harburg": {
+        "Fallzahlen": 7716
+      },
+      "Wandsbek": {
+        "Fallzahlen": 16723
+      }
+    }
+  },
+  "20210509150016": {
+    "Bestätigte Fälle": 73984,
+    "Erstimpfungen": 455550,
+    "Zweitimpfungen": 145131,
+    "Todesfälle": 1519,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 206,
+      "Normalstation gesamt": 124,
+      "Normalstation aus Hamburg": 102,
+      "Intensiv gesamt": 82,
+      "Intensiv aus Hamburg": 62
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1321,
+        "weiblich": 1077
+      },
+      "unbekannt": 593,
+      "6 bis 14 Jahre": {
+        "männlich": 2550,
+        "weiblich": 2296
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2163,
+        "weiblich": 2191
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6725,
+        "weiblich": 6861
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6505,
+        "weiblich": 6601
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5151,
+        "weiblich": 5400
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 5066,
+        "weiblich": 4833
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2701,
+        "weiblich": 2464
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1725,
+        "weiblich": 1703
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1278,
+        "weiblich": 2089
+      },
+      "über 90 Jahre": {
+        "männlich": 282,
+        "weiblich": 1007
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9547
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4889
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7680
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 16412
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9615
+      },
+      "Harburg": {
+        "Fallzahlen": 7716
+      },
+      "Wandsbek": {
+        "Fallzahlen": 16723
+      }
+    }
+  },
+  "20210509164539": {
+    "Bestätigte Fälle": 73984,
+    "Erstimpfungen": 455550,
+    "Zweitimpfungen": 145131,
+    "Todesfälle": 1519,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 206,
+      "Normalstation gesamt": 124,
+      "Normalstation aus Hamburg": 102,
+      "Intensiv gesamt": 82,
+      "Intensiv aus Hamburg": 62
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1321,
+        "weiblich": 1077
+      },
+      "unbekannt": 593,
+      "6 bis 14 Jahre": {
+        "männlich": 2550,
+        "weiblich": 2296
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2163,
+        "weiblich": 2191
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6725,
+        "weiblich": 6861
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6505,
+        "weiblich": 6601
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5151,
+        "weiblich": 5400
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 5066,
+        "weiblich": 4833
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2701,
+        "weiblich": 2464
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1725,
+        "weiblich": 1703
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1278,
+        "weiblich": 2089
+      },
+      "über 90 Jahre": {
+        "männlich": 282,
+        "weiblich": 1007
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9547
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4889
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7680
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 16412
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9615
+      },
+      "Harburg": {
+        "Fallzahlen": 7716
+      },
+      "Wandsbek": {
+        "Fallzahlen": 16723
+      }
+    }
+  },
+  "20210510101619": {
+    "Bestätigte Fälle": 74176,
+    "Erstimpfungen": 465249,
+    "Zweitimpfungen": 155469,
+    "Todesfälle": 1519,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 206,
+      "Normalstation gesamt": 124,
+      "Normalstation aus Hamburg": 102,
+      "Intensiv gesamt": 82,
+      "Intensiv aus Hamburg": 62
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1321,
+        "weiblich": 1077
+      },
+      "unbekannt": 593,
+      "6 bis 14 Jahre": {
+        "männlich": 2550,
+        "weiblich": 2296
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2163,
+        "weiblich": 2191
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6725,
+        "weiblich": 6861
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6505,
+        "weiblich": 6601
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5151,
+        "weiblich": 5400
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 5066,
+        "weiblich": 4833
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2701,
+        "weiblich": 2464
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1725,
+        "weiblich": 1703
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1278,
+        "weiblich": 2089
+      },
+      "über 90 Jahre": {
+        "männlich": 282,
+        "weiblich": 1007
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9547
+      },
+      "Bergedorf": {
+        "Fallzahlen": 4889
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7680
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 16412
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9615
+      },
+      "Harburg": {
+        "Fallzahlen": 7716
+      },
+      "Wandsbek": {
+        "Fallzahlen": 16723
+      }
+    }
+  },
+  "20210512153810": {
+    "Bestätigte Fälle": 74499,
+    "Erstimpfungen": 476114,
+    "Zweitimpfungen": 161583,
+    "Todesfälle": 1526,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 199,
+      "Normalstation gesamt": 122,
+      "Normalstation aus Hamburg": 105,
+      "Intensiv gesamt": 77,
+      "Intensiv aus Hamburg": 58
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1370,
+        "weiblich": 1123
+      },
+      "unbekannt": 614,
+      "6 bis 14 Jahre": {
+        "männlich": 2630,
+        "weiblich": 2381
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2223,
+        "weiblich": 2242
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6882,
+        "weiblich": 6984
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6690,
+        "weiblich": 6739
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5260,
+        "weiblich": 5505
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 5197,
+        "weiblich": 4908
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2752,
+        "weiblich": 2525
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1744,
+        "weiblich": 1728
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1287,
+        "weiblich": 2099
+      },
+      "über 90 Jahre": {
+        "männlich": 284,
+        "weiblich": 1009
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9761
+      },
+      "Bergedorf": {
+        "Fallzahlen": 5007
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7899
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 16801
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9784
+      },
+      "Harburg": {
+        "Fallzahlen": 7850
+      },
+      "Wandsbek": {
+        "Fallzahlen": 17074
+      }
+    }
+  },
+  "20210513173121": {
+    "Bestätigte Fälle": 74673,
+    "Erstimpfungen": 476114,
+    "Zweitimpfungen": 161583,
+    "Todesfälle": 1530,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 197,
+      "Normalstation gesamt": 116,
+      "Normalstation aus Hamburg": 102,
+      "Intensiv gesamt": 81,
+      "Intensiv aus Hamburg": 62
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1370,
+        "weiblich": 1123
+      },
+      "unbekannt": 614,
+      "6 bis 14 Jahre": {
+        "männlich": 2630,
+        "weiblich": 2381
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2223,
+        "weiblich": 2242
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6882,
+        "weiblich": 6984
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6690,
+        "weiblich": 6739
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5260,
+        "weiblich": 5505
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 5197,
+        "weiblich": 4908
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2752,
+        "weiblich": 2525
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1744,
+        "weiblich": 1728
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1287,
+        "weiblich": 2099
+      },
+      "über 90 Jahre": {
+        "männlich": 284,
+        "weiblich": 1009
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9761
+      },
+      "Bergedorf": {
+        "Fallzahlen": 5007
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7899
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 16801
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9784
+      },
+      "Harburg": {
+        "Fallzahlen": 7850
+      },
+      "Wandsbek": {
+        "Fallzahlen": 17074
+      }
+    }
+  },
+  "20210516034512": {
+    "Bestätigte Fälle": 74893,
+    "Erstimpfungen": 490870,
+    "Zweitimpfungen": 173130,
+    "Todesfälle": 1531,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 189,
+      "Normalstation gesamt": 111,
+      "Normalstation aus Hamburg": 96,
+      "Intensiv gesamt": 78,
+      "Intensiv aus Hamburg": 59
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1370,
+        "weiblich": 1123
+      },
+      "unbekannt": 614,
+      "6 bis 14 Jahre": {
+        "männlich": 2630,
+        "weiblich": 2381
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2223,
+        "weiblich": 2242
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6882,
+        "weiblich": 6984
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6690,
+        "weiblich": 6739
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5260,
+        "weiblich": 5505
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 5197,
+        "weiblich": 4908
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2752,
+        "weiblich": 2525
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1744,
+        "weiblich": 1728
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1287,
+        "weiblich": 2099
+      },
+      "über 90 Jahre": {
+        "männlich": 284,
+        "weiblich": 1009
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9761
+      },
+      "Bergedorf": {
+        "Fallzahlen": 5007
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7899
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 16801
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9784
+      },
+      "Harburg": {
+        "Fallzahlen": 7850
+      },
+      "Wandsbek": {
+        "Fallzahlen": 17074
+      }
+    }
+  },
+  "20210516113938": {
+    "Bestätigte Fälle": 74995,
+    "Erstimpfungen": 490870,
+    "Zweitimpfungen": 173130,
+    "Todesfälle": 1533,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 189,
+      "Normalstation gesamt": 111,
+      "Normalstation aus Hamburg": 96,
+      "Intensiv gesamt": 78,
+      "Intensiv aus Hamburg": 59
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1370,
+        "weiblich": 1123
+      },
+      "unbekannt": 614,
+      "6 bis 14 Jahre": {
+        "männlich": 2630,
+        "weiblich": 2381
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2223,
+        "weiblich": 2242
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6882,
+        "weiblich": 6984
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6690,
+        "weiblich": 6739
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5260,
+        "weiblich": 5505
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 5197,
+        "weiblich": 4908
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2752,
+        "weiblich": 2525
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1744,
+        "weiblich": 1728
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1287,
+        "weiblich": 2099
+      },
+      "über 90 Jahre": {
+        "männlich": 284,
+        "weiblich": 1009
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9761
+      },
+      "Bergedorf": {
+        "Fallzahlen": 5007
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7899
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 16801
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9784
+      },
+      "Harburg": {
+        "Fallzahlen": 7850
+      },
+      "Wandsbek": {
+        "Fallzahlen": 17074
+      }
+    }
+  },
+  "20210516184543": {
+    "Bestätigte Fälle": 74995,
+    "Erstimpfungen": 490870,
+    "Zweitimpfungen": 173130,
+    "Todesfälle": 1533,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 189,
+      "Normalstation gesamt": 111,
+      "Normalstation aus Hamburg": 96,
+      "Intensiv gesamt": 78,
+      "Intensiv aus Hamburg": 59
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1370,
+        "weiblich": 1123
+      },
+      "unbekannt": 614,
+      "6 bis 14 Jahre": {
+        "männlich": 2630,
+        "weiblich": 2381
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2223,
+        "weiblich": 2242
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6882,
+        "weiblich": 6984
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6690,
+        "weiblich": 6739
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5260,
+        "weiblich": 5505
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 5197,
+        "weiblich": 4908
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2752,
+        "weiblich": 2525
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1744,
+        "weiblich": 1728
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1287,
+        "weiblich": 2099
+      },
+      "über 90 Jahre": {
+        "männlich": 284,
+        "weiblich": 1009
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9761
+      },
+      "Bergedorf": {
+        "Fallzahlen": 5007
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7899
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 16801
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9784
+      },
+      "Harburg": {
+        "Fallzahlen": 7850
+      },
+      "Wandsbek": {
+        "Fallzahlen": 17074
+      }
+    }
+  },
+  "20210516233704": {
+    "Bestätigte Fälle": 74995,
+    "Erstimpfungen": 490870,
+    "Zweitimpfungen": 173130,
+    "Todesfälle": 1533,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 189,
+      "Normalstation gesamt": 111,
+      "Normalstation aus Hamburg": 96,
+      "Intensiv gesamt": 78,
+      "Intensiv aus Hamburg": 59
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1370,
+        "weiblich": 1123
+      },
+      "unbekannt": 614,
+      "6 bis 14 Jahre": {
+        "männlich": 2630,
+        "weiblich": 2381
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2223,
+        "weiblich": 2242
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6882,
+        "weiblich": 6984
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6690,
+        "weiblich": 6739
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5260,
+        "weiblich": 5505
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 5197,
+        "weiblich": 4908
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2752,
+        "weiblich": 2525
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1744,
+        "weiblich": 1728
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1287,
+        "weiblich": 2099
+      },
+      "über 90 Jahre": {
+        "männlich": 284,
+        "weiblich": 1009
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9761
+      },
+      "Bergedorf": {
+        "Fallzahlen": 5007
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7899
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 16801
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9784
+      },
+      "Harburg": {
+        "Fallzahlen": 7850
+      },
+      "Wandsbek": {
+        "Fallzahlen": 17074
+      }
+    }
+  },
+  "20210517034656": {
+    "Bestätigte Fälle": 74995,
+    "Erstimpfungen": 490870,
+    "Zweitimpfungen": 173130,
+    "Todesfälle": 1533,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 189,
+      "Normalstation gesamt": 111,
+      "Normalstation aus Hamburg": 96,
+      "Intensiv gesamt": 78,
+      "Intensiv aus Hamburg": 59
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1370,
+        "weiblich": 1123
+      },
+      "unbekannt": 614,
+      "6 bis 14 Jahre": {
+        "männlich": 2630,
+        "weiblich": 2381
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2223,
+        "weiblich": 2242
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6882,
+        "weiblich": 6984
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6690,
+        "weiblich": 6739
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5260,
+        "weiblich": 5505
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 5197,
+        "weiblich": 4908
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2752,
+        "weiblich": 2525
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1744,
+        "weiblich": 1728
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1287,
+        "weiblich": 2099
+      },
+      "über 90 Jahre": {
+        "männlich": 284,
+        "weiblich": 1009
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9761
+      },
+      "Bergedorf": {
+        "Fallzahlen": 5007
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7899
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 16801
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9784
+      },
+      "Harburg": {
+        "Fallzahlen": 7850
+      },
+      "Wandsbek": {
+        "Fallzahlen": 17074
+      }
+    }
+  },
+  "20210518124002": {
+    "Bestätigte Fälle": 75148,
+    "Todesfälle": 1533,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 172,
+      "Normalstation gesamt": 101,
+      "Normalstation aus Hamburg": 93,
+      "Intensiv gesamt": 71,
+      "Intensiv aus Hamburg": 52
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1397,
+        "weiblich": 1146
+      },
+      "unbekannt": 624,
+      "6 bis 14 Jahre": {
+        "männlich": 2663,
+        "weiblich": 2413
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2261,
+        "weiblich": 2263
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6998,
+        "weiblich": 7072
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6778,
+        "weiblich": 6820
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5328,
+        "weiblich": 5569
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 5256,
+        "weiblich": 4954
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2798,
+        "weiblich": 2559
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1758,
+        "weiblich": 1740
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1293,
+        "weiblich": 2106
+      },
+      "über 90 Jahre": {
+        "männlich": 285,
+        "weiblich": 1009
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9909
+      },
+      "Bergedorf": {
+        "Fallzahlen": 5073
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7982
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 17042
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9892
+      },
+      "Harburg": {
+        "Fallzahlen": 7943
+      },
+      "Wandsbek": {
+        "Fallzahlen": 17249
+      }
+    }
+  },
+  "20210519191331": {
+    "Bestätigte Fälle": 75338,
+    "Todesfälle": 1535,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 166,
+      "Normalstation gesamt": 95,
+      "Normalstation aus Hamburg": 90,
+      "Intensiv gesamt": 71,
+      "Intensiv aus Hamburg": 51
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1397,
+        "weiblich": 1146
+      },
+      "unbekannt": 624,
+      "6 bis 14 Jahre": {
+        "männlich": 2663,
+        "weiblich": 2413
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2261,
+        "weiblich": 2263
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6998,
+        "weiblich": 7072
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6778,
+        "weiblich": 6820
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5328,
+        "weiblich": 5569
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 5256,
+        "weiblich": 4954
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2798,
+        "weiblich": 2559
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1758,
+        "weiblich": 1740
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1293,
+        "weiblich": 2106
+      },
+      "über 90 Jahre": {
+        "männlich": 285,
+        "weiblich": 1009
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9909
+      },
+      "Bergedorf": {
+        "Fallzahlen": 5073
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7982
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 17042
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9892
+      },
+      "Harburg": {
+        "Fallzahlen": 7943
+      },
+      "Wandsbek": {
+        "Fallzahlen": 17249
+      }
+    }
+  },
+  "20210523174626": {
+    "Bestätigte Fälle": 75752,
+    "Todesfälle": 1545,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 126,
+      "Normalstation gesamt": 66,
+      "Normalstation aus Hamburg": 60,
+      "Intensiv gesamt": 60,
+      "Intensiv aus Hamburg": 41
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1397,
+        "weiblich": 1146
+      },
+      "unbekannt": 624,
+      "6 bis 14 Jahre": {
+        "männlich": 2663,
+        "weiblich": 2413
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2261,
+        "weiblich": 2263
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 6998,
+        "weiblich": 7072
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6778,
+        "weiblich": 6820
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5328,
+        "weiblich": 5569
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 5256,
+        "weiblich": 4954
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2798,
+        "weiblich": 2559
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1758,
+        "weiblich": 1740
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1293,
+        "weiblich": 2106
+      },
+      "über 90 Jahre": {
+        "männlich": 285,
+        "weiblich": 1009
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 9909
+      },
+      "Bergedorf": {
+        "Fallzahlen": 5073
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 7982
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 17042
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9892
+      },
+      "Harburg": {
+        "Fallzahlen": 7943
+      },
+      "Wandsbek": {
+        "Fallzahlen": 17249
+      }
+    }
+  },
+  "20210526114151": {
+    "Bestätigte Fälle": 75935,
+    "Todesfälle": 1545,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 129,
+      "Normalstation gesamt": 67,
+      "Normalstation aus Hamburg": 60,
+      "Intensiv gesamt": 62,
+      "Intensiv aus Hamburg": 44
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1412,
+        "weiblich": 1159
+      },
+      "unbekannt": 626,
+      "6 bis 14 Jahre": {
+        "männlich": 2735,
+        "weiblich": 2479
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2287,
+        "weiblich": 2291
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 7071,
+        "weiblich": 7130
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6848,
+        "weiblich": 6876
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5370,
+        "weiblich": 5620
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 5316,
+        "weiblich": 4990
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2818,
+        "weiblich": 2579
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1763,
+        "weiblich": 1747
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1296,
+        "weiblich": 2111
+      },
+      "über 90 Jahre": {
+        "männlich": 285,
+        "weiblich": 1011
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 10003
+      },
+      "Bergedorf": {
+        "Fallzahlen": 5118
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 8063
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 17231
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9970
+      },
+      "Harburg": {
+        "Fallzahlen": 8034
+      },
+      "Wandsbek": {
+        "Fallzahlen": 17401
+      }
+    }
+  },
+  "20210526182039": {
+    "Bestätigte Fälle": 75935,
+    "Todesfälle": 1545,
+    "Patienten in klinischer Behandlung": {
+      "Stationär gesamt": 129,
+      "Normalstation gesamt": 67,
+      "Normalstation aus Hamburg": 60,
+      "Intensiv gesamt": 62,
+      "Intensiv aus Hamburg": 44
+    },
+    "Verteilung der Infizierten nach Alter und Geschlecht": {
+      "bis 5 Jahre": {
+        "männlich": 1412,
+        "weiblich": 1159
+      },
+      "unbekannt": 626,
+      "6 bis 14 Jahre": {
+        "männlich": 2735,
+        "weiblich": 2479
+      },
+      "15 bis 19 Jahre": {
+        "männlich": 2287,
+        "weiblich": 2291
+      },
+      "20 bis 29 Jahre": {
+        "männlich": 7071,
+        "weiblich": 7130
+      },
+      "30 bis 39 Jahre": {
+        "männlich": 6848,
+        "weiblich": 6876
+      },
+      "40 bis 49 Jahre": {
+        "männlich": 5370,
+        "weiblich": 5620
+      },
+      "50 bis 59 Jahre": {
+        "männlich": 5316,
+        "weiblich": 4990
+      },
+      "60 bis 69 Jahre": {
+        "männlich": 2818,
+        "weiblich": 2579
+      },
+      "70 bis 79 Jahre": {
+        "männlich": 1763,
+        "weiblich": 1747
+      },
+      "80 bis 89 Jahre": {
+        "männlich": 1296,
+        "weiblich": 2111
+      },
+      "über 90 Jahre": {
+        "männlich": 285,
+        "weiblich": 1011
+      }
+    },
+    "Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken": {
+      "Altona": {
+        "Fallzahlen": 10003
+      },
+      "Bergedorf": {
+        "Fallzahlen": 5118
+      },
+      "Eimsbüttel": {
+        "Fallzahlen": 8063
+      },
+      "Hamburg Mitte": {
+        "Fallzahlen": 17231
+      },
+      "Hamburg Nord": {
+        "Fallzahlen": 9970
+      },
+      "Harburg": {
+        "Fallzahlen": 8034
+      },
+      "Wandsbek": {
+        "Fallzahlen": 17401
+      }
+    }
   }
 }
