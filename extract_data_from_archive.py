@@ -106,7 +106,7 @@ if __name__ == '__main__':
                                                  'weiblich': int(r['weiblich'])}
                     caption = section.find('p').get_text()
                     if 'Fällen fehlen Angaben zu Alter und / oder Geschlecht' in caption:
-                        number_unknown = caption.split(' bei ')[-1].split(' ')[0]
+                        number_unknown = caption.split(' bei ')[-1].split(' ')[0].split('\xa0')[0]
                         item[section_header]['unbekannt'] = int(number_unknown)
                 elif 'Entwicklung der Zahl der positiv auf COVID-19 getesteten Personen nach Bezirken' == section_header:
                     item[section_header][r['Bezirk']] = {
